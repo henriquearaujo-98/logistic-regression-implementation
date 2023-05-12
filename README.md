@@ -1,7 +1,7 @@
 # Regression Model Development
 This project contains a Python implementation of a logistic regression model developed from scratch, using mathematical formulas and optimized with a custom implementation of the gradient descent algorithm.
 
-The model was developed for the [Breast Cancer Dataset](https://scikit-learn.org/1.0/modules/generated/sklearn.datasets.load_boston.html) from scikit-learn (sklearn).
+The model was developed for the [Breast Cancer Dataset](https://scikit-learn.org/1.0/modules/generated/sklearn.datasets.load_boston.html](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html) from scikit-learn (sklearn).
 
 For the sake of data visualization, only the features "Mean Radius" and "Mean Texture" of the dataset were used. Further more, only 1/6 of the dataset was used to induce a model's overfitting. This was done so that there could be an accuracy comparison between the regularized model and the unregularized model.
 
